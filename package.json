@@ -18,6 +18,11 @@
     "@angular/platform-browser": "^14.2.0",
     "@angular/platform-browser-dynamic": "^14.2.0",
     "@angular/router": "^14.2.0",
+    "@ui5/webcomponents": "^1.21.1",
+    "@ui5/webcomponents-fiori": "^1.21.2",
+    "@ui5/webcomponents-icons": "^1.21.2",
+    "@ui5/webcomponents-icons-business-suite": "^1.21.2",
+    "@ui5/webcomponents-icons-tnt": "^1.21.2",
     "rxjs": "~7.5.0",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
